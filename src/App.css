@@ -59,12 +59,12 @@ button, input[type="submit"], input[type="reset"] {
 }
 
 .selections {
-  font-size: 1.1rem;
+  font-size: 1rem;
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
-  padding: 1em;
+  padding: .5em;
   height: 70px;
   width: 47%;
   border: 1px solid lightgray;
